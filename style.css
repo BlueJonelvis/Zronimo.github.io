@@ -293,3 +293,21 @@
 #youtube:active{
   background-color: whitesmoke;
 }
+
+/* Itunes */
+
+#itunes{
+  background-color: black;
+  border-radius: 15%;
+  transition: 500ms;
+  background-size: auto;
+}
+
+#itunes:hover{
+  background-color: whitesmoke;
+  cursor: pointer;
+}
+
+#itunes:active{
+  background-color: rgb(0, 238, 255);
+}
